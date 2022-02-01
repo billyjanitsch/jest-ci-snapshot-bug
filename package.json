@@ -1,0 +1,15 @@
+{
+  "name": "jest-ci-snapshot-bug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Billy Janitsch <billy@kensho.com> (https://billyjanitsch.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
